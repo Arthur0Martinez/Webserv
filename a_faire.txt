@@ -1,0 +1,14 @@
+Benoit : 404 ATTENTION HIHI
+
+arthur : Regerer le timeout avec les nouveaux ajouts;
+		 MERGE
+
+koopa : default_file dans Root::Root
+		gestion de uploads (toi meme tu sais)
+
+
+
+tous : CGI 
+
+
+REGARDER LA TRAME DE CORRECTION
